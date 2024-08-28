@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shei</h1>
-<h3 align="center">A BSCS student</h3>
+- 🔭 About Me **I am a BSCS student from the Philippines. I am interested in web development and robotics.**
 
-- 🌱 I’m currently learning **Web Programming, Operating Systems, Computer Architecture**
+- 🌱 Personal Projects **None at the moment**
 
-- ⚡ Fun fact **I like playing Stardew Valley**
+- 💬 Hobbies and Interests **Art, Games, Anime, Collecting (Stickers, Figurines, etc.)**
+
+- ⚡ Fun fact **I like Stardew Valley!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
